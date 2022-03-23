@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "xos4 Terminus:pixelsize=14:antialias=true:autohint=true";
+static char *font = "Ubuntu Mono:pixelsize=15:antialias=true:autohint=true";
 
 /* disable bold, italic and roman fonts globally */
 int disablebold = 0;
